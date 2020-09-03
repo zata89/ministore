@@ -1,0 +1,30 @@
+{
+  "name": "ministore",
+  "version": "1.0.0",
+  "description": "Ministore web application",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zata89/ministore.git"
+  },
+  "keywords": [
+    "ministore",
+    "shopping"
+  ],
+  "author": "zata1989@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zata89/ministore/issues"
+  },
+  "homepage": "https://github.com/zata89/ministore#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
